@@ -35,8 +35,8 @@ def index():
         'linkedin' :"linkedin.com/in/aswinichennupalli"
     }
     educations = [
-        {'date': '2023-2025', 'degree': 'Master of Computer Applications', 'institution': 'KL University', 'description': 'Focus on Artificial Intelligence.', 'cgpa': '9.13'},
-        {'date': '2020-2023', 'degree': 'Bachelor of Science in Computer Maths, Statistics, Computer Science', 'institution': 'Maris Stella College', 'cgpa': '7.0'},
+        {'date': '2023-2025', 'degree': 'Master of Computer Applications', 'institution': 'KL University', 'description': 'Specialization on Cloud Computing.', 'cgpa': '9.13'},
+        {'date': '2020-2023', 'degree': 'Bachelor of Science', 'institution': 'Maris Stella College','description':'Branch: Computer Maths, Statistics, Computer Science ', 'cgpa': '7.0'},
         {'date': '2016-2018', 'degree': 'Intermediate (MPC)', 'institution': 'Sri Chaitanya Junior College', 'cgpa': '7.32'},
         {'date': '2015-2016', 'degree': 'SSC', 'institution': 'Sri Chaitanya', 'cgpa': '8.8'},
         ]
