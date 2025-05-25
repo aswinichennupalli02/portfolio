@@ -99,4 +99,4 @@ def index():
     return render_template('index.html',social_links=social_links, educations=educations,projects=projects,experience=experiences)
 
 if __name__ == "__main__":
-    app.run(debug=True,port=1000,host="0.0.0.0")
+    app.run(debug=False,port=1000,host="0.0.0.0")
